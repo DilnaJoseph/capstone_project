@@ -23,6 +23,12 @@ The project includes three pricing models:
 - **Git & GitHub** – Version control and code hosting
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📈 Pricing Model Visualization
+
+This plot shows real-time pricing behavior of 3 models over a 12-hour period.
+
+![Pricing Models Comparison](assets/pricing_models_plot.png)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Architecture Diagram
 
