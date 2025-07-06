@@ -27,7 +27,8 @@ The project includes three pricing models:
 
 This plot shows real-time pricing behavior of 3 models over a 12-hour period.
 
-![Pricing Models Comparison](assets/pricing_models_plot.png)
+![Pricing Models Visualization](pricing_plot.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Architecture Diagram
